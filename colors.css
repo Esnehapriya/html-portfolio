@@ -1,0 +1,79 @@
+#yellow{
+    color:yellow;
+    text-align: center;
+}
+#orange{
+    color:orange;
+    text-align: center;
+}
+#red{
+    color:red;
+    text-align: center;
+}
+#purple{
+    color:purple;
+    text-align: center;
+}
+#blue{
+    color:blue;
+    text-align: center;
+}
+#green{
+    color:green;
+    text-align: center;
+}
+#turquoise{
+    color:turquoise;
+    text-align: center;
+}
+#pink{
+    color:rgb(248, 109, 195);
+    text-align: center;
+}
+#grey{
+    color:grey;
+    text-align: center;
+}
+#brown{
+    color:brown;
+    text-align: center;
+}
+#white{
+    color: white;
+    text-align: center;
+}
+#black{
+    text-align: center;
+}
+.one{
+    float: left;
+    border: 10px;
+}
+.two{
+    float: left;
+    border: 10px;
+}
+.three{
+    float: left;
+    border: 10px;
+}
+.four{
+    float: left;
+    border: 10px;
+}
+img{
+    margin: 10px;
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+}
+#container{
+    margin-left: 250px;
+    margin-right: 250px;
+   
+}
+body{
+    background-color:#D7E4C0;
+}
+
+
